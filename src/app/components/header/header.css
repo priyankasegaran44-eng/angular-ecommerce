@@ -1,0 +1,23 @@
+.navbar{
+    background:#1976d2;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 40px;
+}
+
+.logo h2{
+    margin:0;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:25px;
+    font-size:18px;
+}
+
+nav a:hover{
+    color:yellow;
+}
